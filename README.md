@@ -1,6 +1,7 @@
 # Portfolio Project Data Analysis Repository
 
 This repository contains all the code and queries that I have created through researching and learning from various sources. The projects I have worked on include:
+- Types of data join  for analyzing a country dataset.
 - Exploratory Data Analysis on COVID-19 using MySQL.
 - Data Visulisation about COVID-19 Deaths and Infection in Tableau. Link: https://public.tableau.com/app/profile/vien.ngo3124/viz/COVID19Infected_Dashboard/Dashboard1
 - Summary Stats on Summer Olympics using MySQL.
