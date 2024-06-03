@@ -1,8 +1,8 @@
 /*
 
--- This project will take 
--- Dataset: Summer Olympics
--- Skill: windown function, fetching, ranking, paging, aggreate windown function, table
+-- THIS PROJECT ABOUT SUMMARY STATS ON SUMMER OLYMPICS
+-- DATASET: summer
+-- SKILL: WINDOW FUNCTION, FETCHING, RANKING, PAGING, AGGREATE WINDOW FUNCTION, TABLE
 
 */
 
