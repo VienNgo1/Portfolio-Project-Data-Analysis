@@ -24,7 +24,7 @@ ORDER BY 1, 2;
 -- Looking at Total Cases vs. Total_Deaths
 -- The Percentage of Deaths out of the total number of cases in Vietnam from 2020 to 2024
 -- To show likelihood of dying if infected in Vietnam
-SELECT location, date, total_cases, total_deaths, (CAST(total_deaths AS float)/CAST(total_cases AS float))*100 AS DeathPercentage
+SELECT location, date, CAST(total_cases AS float), CAST(total_deaths AS float), (CAST(total_deaths AS float)/CAST(total_cases AS float))*100 AS DeathPercentage
 FROM PortfolioProject..CovidDeaths
 WHERE location LIKE '%nam' 
 AND continent IS NOT NULL
